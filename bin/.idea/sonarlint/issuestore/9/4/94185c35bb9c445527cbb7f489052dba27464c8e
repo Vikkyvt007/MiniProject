@@ -1,0 +1,11 @@
+
+—
+java:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(çŒ†·
+œ
+java:S1186U"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÉĞÆÿÿÿÿÿ
+H
+java:S1172Y"2Remove this unused method parameter "currentDate".(È¦ğÙ
+O
+java:S3400["9Remove this method and declare a constant for this value.(”·³›
+O
+java:S3400_"9Remove this method and declare a constant for this value.(”·³›
